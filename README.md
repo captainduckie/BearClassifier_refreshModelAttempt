@@ -1,6 +1,8 @@
-# PracticeApps2
+# PracticeApps
 
-PracticeApps2 is a repository for apps developed in a Jupyter notebook to be uploaded to Binder (web app publishing service) via its Github URL. 
+PracticeApps is a repository for machine learning tools developed in a Jupyter notebook to be uploaded to SeeMe.ai.
+
+Note: SeeMe.ai replacing Binder (web app publishing service) since incompatible with Google Colaboratory.
 
 Applications are based on the exercises provided from fastai's Deep Learning course, with further experimentation and development by the student.
 
